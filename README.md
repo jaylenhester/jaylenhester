@@ -1,34 +1,31 @@
-### Hi there 👋, I'm Jaylen!
+# Hi there 👋, I'm Jaylen!
 
-<p>I'm a proactive Data Analyst with a passion for using data to solve complex problems—from driving operational efficiency to conducting independent quantitative research. I'm currently deepening my skills in data science and Python to build impactful, data-driven solutions.</p>
+I'm an **AI Evaluation Specialist & Data Analyst** who studies how language models behave, break, and improve. By day, I work in manufacturing data and process optimization. By night, I evaluate LLMs through RLHF, build bias auditing pipelines, and run independent research on algorithmic behavior.
 
----
+I believe the best AI evaluators are the ones building things — not just rating outputs.
 
-### 🚀 What I'm Currently Working On
+## 🔬 What I'm Working On
 
-* Completing the **Data Scientist in Python** professional certificate path on DataCamp.
-* Building a portfolio of projects that showcase my skills in data analysis, automation, and statistical analysis.
-* Exploring the intersection of data, AI, and Web3.
+- **Project Lara** — An end-to-end ML bias auditing pipeline with a Streamlit dashboard *(in progress)*
+- Conducting RLHF evaluations and Python code audits for production AI models
+- Deepening statistical reasoning through Google Advanced Data Analytics coursework
 
----
+## ✨ Featured Project
 
-### ✨ Featured Project
+### [The Aiasuka Effect: Algorithmic Gender Bias in Web3](https://github.com/jaylenhester/aiasuka-data-project)
 
-**[The Aiasuka Effect: A Case Study on Gender Bias in Web3](https://github.com/jaylenhester/aiasuka-data-project)** 
+A controlled 3-week field experiment measuring how synthetic feminine personas alter audience engagement on X. Designed the study, built a Python data pipeline (Pandas), and validated a statistically significant **47% spike in impressions** using independent t-tests and one-way ANOVA. The research documents how algorithmic amplification of idealized personas leads to measurable trust erosion.
 
-<p>My flagship independent project. I designed and executed a quantitative experiment on the X platform to measure the impact of an AI-generated persona on user engagement, revealing significant algorithmic and gender bias. The project involved data collection, cleaning, statistical validation (t-tests, ANOVA), and visualization using Python.</p>
+## 🛠️ Skills & Tools
 
----
+**AI & Evaluation:** RLHF, Adversarial Testing, Bias Auditing, Prompt Engineering, Model Behavior Analysis
 
-### 🛠️ My Skills & Tools
+**Programming & Data:** Python (Pandas, NumPy, Scikit-learn, Selenium), SQL (BigQuery), VBA, R
 
-* **Programming & Databases:** Python (Pandas, NumPy, Scikit-learn), SQL (BigQuery), VBA, Advanced Excel, R
-* **Data Analysis & ML:** Exploratory Data Analysis, Data Visualization (Tableau, Seaborn), Predictive Modeling, Statistical Analysis
-* **Tools & Platforms:** Git & GitHub, Kaggle, Google Colab, Google Workspace
+**Analysis & Visualization:** Statistical Testing, EDA, Tableau, Seaborn, Predictive Modeling
 
----
+**Platforms:** Git & GitHub, Kaggle, Google Colab, Google Workspace
 
-### 📫 How to Reach Me
+## 📫 Connect
 
-* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jaylen-hester/)
-* **Portfolio Website:** 
+[LinkedIn](https://www.linkedin.com/in/jaylen-hester/) · [Portfolio](https://jaylenhester.carrd.co/)
